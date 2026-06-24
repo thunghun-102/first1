@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d60266d8554309842a970505e427bdd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7312899928239856002
+    second: Ky_Si_BoDoi_0
+  - first:
+      213: -1155778931659328446
+    second: Ky_Si_BoDoi_1
+  - first:
+      213: -4476156440528015617
+    second: Ky_Si_BoDoi_2
+  - first:
+      213: 7586233620892135919
+    second: Ky_Si_BoDoi_3
+  - first:
+      213: 3564798801270240608
+    second: Ky_Si_BoDoi_4
+  - first:
+      213: -4292420367327896203
+    second: Ky_Si_BoDoi_5
+  - first:
+      213: -2411377169773878000
+    second: Ky_Si_BoDoi_6
+  - first:
+      213: 4626782986371379895
+    second: Ky_Si_BoDoi_7
+  - first:
+      213: -3954575016905543613
+    second: Ky_Si_BoDoi_8
+  - first:
+      213: 552876554858582253
+    second: Ky_Si_BoDoi_9
+  - first:
+      213: -1309007198958506424
+    second: Ky_Si_BoDoi_10
+  - first:
+      213: 4610643724970621585
+    second: Ky_Si_BoDoi_11
+  - first:
+      213: 3804691043841860626
+    second: Ky_Si_BoDoi_12
+  - first:
+      213: 6760559666783217236
+    second: Ky_Si_BoDoi_13
+  - first:
+      213: 8283043132224643813
+    second: Ky_Si_BoDoi_14
+  - first:
+      213: -5649212737431556908
+    second: Ky_Si_BoDoi_15
+  - first:
+      213: 8764603261034436241
+    second: Ky_Si_BoDoi_16
+  - first:
+      213: -406234960544341965
+    second: Ky_Si_BoDoi_17
+  - first:
+      213: -4569453884111887283
+    second: Ky_Si_BoDoi_18
+  - first:
+      213: 2767522381633557134
+    second: Ky_Si_BoDoi_19
+  - first:
+      213: -8474163140166770014
+    second: Ky_Si_BoDoi_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28957b44db3ac7560800000000000000
+      internalID: 7312899928239856002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244b09b6f29d5ffe0800000000000000
+      internalID: -1155778931659328446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe204bde6f71e1c0800000000000000
+      internalID: -4476156440528015617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b66cd847b74960800000000000000
+      internalID: 7586233620892135919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 11
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06573756f95b87130800000000000000
+      internalID: 3564798801270240608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd4ca0b624e64c0800000000000000
+      internalID: -4292420367327896203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 11
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01524287d31198ed0800000000000000
+      internalID: -2411377169773878000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 11
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2bc73cc92a53040800000000000000
+      internalID: 4626782986371379895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340f5bf69f68e19c0800000000000000
+      internalID: -3954575016905543613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 11
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0dcf02c463ca700800000000000000
+      internalID: 552876554858582253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 11
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e26a153e875dde0800000000000000
+      internalID: -1309007198958506424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 14
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af1c42a0c4cff30800000000000000
+      internalID: 4610643724970621585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 14
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214ed44a85afcc430800000000000000
+      internalID: 3804691043841860626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 14
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456627da23552dd50800000000000000
+      internalID: 6760559666783217236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_14
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 9
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e22d73e7d743f270800000000000000
+      internalID: 8283043132224643813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 9
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca7c432f6f991b0800000000000000
+      internalID: -5649212737431556908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_16
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 14
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1961033aa3022a970800000000000000
+      internalID: 8764603261034436241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_17
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 9
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330e869a473cc5af0800000000000000
+      internalID: -406234960544341965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_18
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 9
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d446bf307e90690c0800000000000000
+      internalID: -4569453884111887283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_19
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 14
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82163171f6386620800000000000000
+      internalID: 2767522381633557134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ky_Si_BoDoi_20
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 14
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2a6a5a589b56a80800000000000000
+      internalID: -8474163140166770014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ky_Si_BoDoi_0: 7312899928239856002
+      Ky_Si_BoDoi_1: -1155778931659328446
+      Ky_Si_BoDoi_10: -1309007198958506424
+      Ky_Si_BoDoi_11: 4610643724970621585
+      Ky_Si_BoDoi_12: 3804691043841860626
+      Ky_Si_BoDoi_13: 6760559666783217236
+      Ky_Si_BoDoi_14: 8283043132224643813
+      Ky_Si_BoDoi_15: -5649212737431556908
+      Ky_Si_BoDoi_16: 8764603261034436241
+      Ky_Si_BoDoi_17: -406234960544341965
+      Ky_Si_BoDoi_18: -4569453884111887283
+      Ky_Si_BoDoi_19: 2767522381633557134
+      Ky_Si_BoDoi_2: -4476156440528015617
+      Ky_Si_BoDoi_20: -8474163140166770014
+      Ky_Si_BoDoi_3: 7586233620892135919
+      Ky_Si_BoDoi_4: 3564798801270240608
+      Ky_Si_BoDoi_5: -4292420367327896203
+      Ky_Si_BoDoi_6: -2411377169773878000
+      Ky_Si_BoDoi_7: 4626782986371379895
+      Ky_Si_BoDoi_8: -3954575016905543613
+      Ky_Si_BoDoi_9: 552876554858582253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
